@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edu142
 - 👀 I’m interested in coding, html, css, python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning front end and back end (python)
 - 💞️ I’m looking to collaborate on websites projects, apps, etc.
 - 📫 How to reach me at edu142@hotmail.com  
 - 😄 Pronouns: He/Him
