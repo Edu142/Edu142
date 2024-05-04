@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edu142
-- 👀 I’m interested in coding, htmal, css, python
+- 👀 I’m interested in coding, html, css, python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on websites projects, apps, etc.
 - 📫 How to reach me at edu142@hotmail.com  
